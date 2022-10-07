@@ -1,0 +1,21 @@
+print(0b0010 & 0b0011)
+print("Final Answer")
+a=10
+b=13
+print(a+b)
+print(0b0010 | 0b0011)
+print("Final Answer")
+print("Changes Made")
+<<<<<<< HEAD
+print(0b0010 | 0b0011)
+print("Final Answer")
+print("Changes Made")
+def a():
+    print("Function Call")
+a()
+||||||| b3582a2
+=======
+print(0b0110 & 0b0101)
+print("Final Answer")
+print("Changes")
+>>>>>>> dev
